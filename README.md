@@ -38,7 +38,7 @@ Components:
 Assembling the device
   ----------
   * The INA226 board has an address selection pad that must be pre-soldered. The current version of the program is configured to use address 0x45, i.e. it is necessary to solder A0 and A1 to the VCC pin. See the INA226 board datasheet for details. It is also necessary to remove resistor R100 from the board since an external shunt is used instead. The current configured board parameters are:
-  * shunt 100A / voltage drop across shunt 0.75v, board address 0x45
+  shunt 100A / voltage drop across shunt 0.75v, board address 0x45
   * The 3x7 breadboard is secured with screws directly to the shunt; simply drill holes on the board to a diameter of 4mm
 
 Connection diagram here
