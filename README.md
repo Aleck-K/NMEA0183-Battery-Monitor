@@ -21,12 +21,15 @@ Components:
 1. Battery terminals
 
 <img src="preview/terminals.png"></td>
+
 2. Pins for terminals
 
 <img src="preview/pins.png"></td>
+
 3. 100A shunt
 
 <img src="preview/shunt.png"></td>
+
 4. ESP8266 WeMos D1 Mini V2 (ESP-12)
 5. INA226 CJMCU-226 board
 6. Power converter TZT MH-MINI-360
