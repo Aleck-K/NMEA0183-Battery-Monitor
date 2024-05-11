@@ -10,7 +10,7 @@ The device transmits measured current and voltage data using the NMEA018 protoco
 
 This data can be displayed, for example, as a widget on the Android screen. Average battery performance statistics are collected per minute and per hour. Averaged data is stored for 7 days and displayed in the form of graphs via a web page - this functionality needs improvement!
 
-The project code is based on the code of the following projects:
+The project is based on the code of the following projects:
 
 https://github.com/alvra/nmea-bridge - read the annotation to understand all the capabilities of the device.
 
